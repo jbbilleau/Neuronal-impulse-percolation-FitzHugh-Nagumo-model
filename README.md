@@ -1,0 +1,1 @@
+# Neuronal-impulse-percolation-FitzHugh-Nagumo-model
